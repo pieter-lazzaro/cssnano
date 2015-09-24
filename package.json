@@ -75,7 +75,34 @@
   "registry":"jspm",
   "jspm": {
     "dependencies": {
-      "postcss-svgo": "github:pieter-lazzaro/postcss-svgo@master"
+      "postcss-svgo": "github:pieter-lazzaro/postcss-svgo@master",
+      "autoprefixer": "npm:autoprefixer@^6.0.3",
+      "decamelize": "npm:decamelize@^1.0.0",
+      "defined": "npm:defined@^1.0.0",
+      "indexes-of": "npm:indexes-of@^1.0.1",
+      "object-assign": "npm:object-assign@^4.0.1",
+      "postcss": "npm:postcss@^5.0.5",
+      "postcss-calc": "npm:postcss-calc@^5.0.0",
+      "postcss-colormin": "npm:postcss-colormin@^2.1.1",
+      "postcss-convert-values": "npm:postcss-convert-values@^2.3.2",
+      "postcss-discard-comments": "npm:postcss-discard-comments@^2.0.0",
+      "postcss-discard-duplicates": "npm:postcss-discard-duplicates@^2.0.0",
+      "postcss-discard-empty": "npm:postcss-discard-empty@^2.0.0",
+      "postcss-discard-unused": "npm:postcss-discard-unused@^2.1.0",
+      "postcss-filter-plugins": "npm:postcss-filter-plugins@^2.0.0",
+      "postcss-merge-idents": "npm:postcss-merge-idents@^2.1.0",
+      "postcss-merge-longhand": "npm:postcss-merge-longhand@^2.0.1",
+      "postcss-merge-rules": "npm:postcss-merge-rules@^2.0.0",
+      "postcss-minify-font-values": "npm:postcss-minify-font-values@^1.0.1",
+      "postcss-minify-params": "npm:postcss-minify-params@^1.0.2",
+      "postcss-minify-selectors": "npm:postcss-minify-selectors@^2.0.0",
+      "postcss-normalize-charset": "npm:postcss-normalize-charset@^1.1.0",
+      "postcss-normalize-url": "npm:postcss-normalize-url@^3.0.1",
+      "postcss-ordered-values": "npm:postcss-ordered-values@^2.0.1",
+      "postcss-reduce-idents": "npm:postcss-reduce-idents@^2.2.0",
+      "postcss-unique-selectors": "npm:postcss-unique-selectors@^2.0.0",
+      "postcss-value-parser": "npm:postcss-value-parser@^2.0.5",
+      "postcss-zindex": "npm:postcss-zindex@^2.0.0"
     }
   }
 }
