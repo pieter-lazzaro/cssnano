@@ -72,7 +72,7 @@
     "lib",
     "LICENSE-MIT"
   ],
-  "registry":"npm",
+  "registry":"jspm",
   "jspm": {
     "dependencies": {
       "postcss-svgo": "github:pieter-lazzaro/postcss-svgo@master"
