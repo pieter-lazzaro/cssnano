@@ -103,6 +103,11 @@
       "postcss-unique-selectors": "npm:postcss-unique-selectors@^2.0.0",
       "postcss-value-parser": "npm:postcss-value-parser@^2.0.5",
       "postcss-zindex": "npm:postcss-zindex@^2.0.0"
+    },
+    "overrides": {
+      "npm:autoprefixer@^6.0.3": {
+        "registry": "npm"
+      }
     }
   }
 }
